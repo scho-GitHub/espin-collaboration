@@ -3,4 +3,4 @@
 The following people have contributed to this project.
 
 * Mark Piper
-** Safiya Alpheus 
+** Safiya Alpheus (I like potatoes) 
