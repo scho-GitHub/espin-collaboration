@@ -3,4 +3,4 @@
 The following people have contributed to this project.
 
 * Mark Piper
-* Jacob Hirschberg
+* Jacob Hirschberg (likes beer)
