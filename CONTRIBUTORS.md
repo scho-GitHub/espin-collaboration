@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Gaia Stucky de Quay (I love cheese)
 * Megan Gillen
 * Benton Franklin (I have a cat named Cyrus)
 * Allie Balter-Kennedy (I live in NYC)
