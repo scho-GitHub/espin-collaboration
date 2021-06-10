@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Grasshopper Anderson-Merritt (I got my nickname because I hop)
 * Emily Bamber (I love my dog, sorry for getting distracted and playing with her during ESPIn 2021)
 * Angel Monsalve (That is me)
 * Conner Lester (I drink too much coffee)
