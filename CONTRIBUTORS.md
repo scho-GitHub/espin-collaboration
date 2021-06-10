@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Katrina Gelwick (can tie shoelaces with her toes)
 * Nishani Moragoda (I am learning a lot)
 * Francesco Pavano
 * Sam Zapp (saw a big snapping turtle in his yard today)
