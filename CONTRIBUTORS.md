@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Angel Monsalve (That is me)
 * Conner Lester (I drink too much coffee)
 * Mel Guirro (I like mountains)
 * Gaia Stucky de Quay (I love cheese)
