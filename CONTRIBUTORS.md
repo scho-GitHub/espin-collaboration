@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Sam Zapp (saw a big snapping turtle in his yard today)
 * Risa Madoff (Have a nice eon)
 * Se Jong Cho (My dog Maka can say "I love you!" and my cat can say "Hello!")
 * Jacob Hirschberg (likes beer)
