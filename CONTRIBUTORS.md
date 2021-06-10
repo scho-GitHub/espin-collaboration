@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Jacob Hirschberg (likes beer)
 * Josh Wolpert
 * Laurent Roberge (Hello from New Orleans!)
 * Safiya Alpheus (I like potatoes) 
