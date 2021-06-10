@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Josh Wolpert
 * Laurent Roberge (Hello from New Orleans!)
 * Safiya Alpheus (I like potatoes) 
 * Grasshopper Anderson-Merritt (I got my nickname because I hop)
