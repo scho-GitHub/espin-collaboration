@@ -2,4 +2,4 @@
 
 The following people have contributed to this project.
 
-* Mark Piper
+* Grace Guryan (I like strong coffee)
