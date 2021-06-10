@@ -2,6 +2,7 @@
 
 The following people have contributed to this project.
 
+* Mel Guirro (I like mountains)
 * Gaia Stucky de Quay (I love cheese)
 * Megan Gillen
 * Benton Franklin (I have a cat named Cyrus)
